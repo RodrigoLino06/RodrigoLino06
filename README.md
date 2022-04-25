@@ -16,4 +16,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= RodrigoLino06&show_icons=true&locale=en" alt=" RodrigoLino06 " /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username= RodrigoLino06&show_icons=true&locale=en" alt=" Lino06 " /></p>
